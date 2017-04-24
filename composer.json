@@ -1,0 +1,25 @@
+{
+  "name": "ngubin/key62",
+  "description": "Generating a unique short key from the number.",
+  "version": "v1.0.0",
+  "keywords": [],
+  "type": "library",
+  "homepage": "https://github.com/ngubin/key62",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nik Gubin",
+      "email": "nik@labiis.com",
+      "homepage": "https://labiis.com/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.45"
+  },
+  "autoload": {
+    "psr-4": {
+      "Key62\\": "src/"
+    }
+  }
+}
