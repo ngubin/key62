@@ -1,7 +1,7 @@
 {
   "name": "ngubin/key62",
   "description": "Generating a unique short key from the number.",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "keywords": [],
   "type": "library",
   "homepage": "https://github.com/ngubin/key62",
