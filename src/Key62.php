@@ -40,7 +40,7 @@ class Key62
     public function __construct($symbols = null, $length = null)
     {
         if ($length !== null) {
-            if (is_int($length) && $length >= 1) {
+            if (!(is_int($length) && $length >= 1)) {
                 throw new Key62LengthException('An integer greater than 1 is allowed');
             } else {
                 $this->length = $length;
