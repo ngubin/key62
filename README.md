@@ -1,3 +1,7 @@
+The repository is **abandoned**. Use https://github.com/ngubin/key-n instead!
+
+---
+
 # Key62
 Generating a unique short key from the number.
 
